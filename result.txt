@@ -1,0 +1,280 @@
+ASV_1	pseudocatenulatum
+ASV_2	adolescentis
+ASV_3	
+ASV_4	angulatum
+ASV_5	adolescentis
+ASV_6	
+ASV_7	longum subsp. longum
+ASV_8	adolescentis
+ASV_9	
+ASV_10	
+ASV_11	longum subsp. longum
+ASV_12	
+ASV_13	
+ASV_14	bifidum
+ASV_15	
+ASV_16	adolescentis
+ASV_17	bifidum
+ASV_18	
+ASV_19	
+ASV_20	adolescentis
+ASV_21	
+ASV_22	
+ASV_23	adolescentis
+ASV_24	
+ASV_25	
+ASV_26	
+ASV_27	
+ASV_28	
+ASV_29	
+ASV_30	
+ASV_31	
+ASV_32	
+ASV_33	
+ASV_34	
+ASV_35	
+ASV_36	
+ASV_37	
+ASV_38	
+ASV_39	
+ASV_40	
+ASV_41	longum subsp. longum
+ASV_42	
+ASV_43	
+ASV_44	Bifidobacterium
+ASV_45	
+ASV_46	
+ASV_47	
+ASV_48	angulatum
+ASV_49	
+ASV_50	
+ASV_51	
+ASV_52	Bifidobacterium
+ASV_53	
+ASV_54	angulatum
+ASV_55	angulatum
+ASV_56	adolescentis
+ASV_57	
+ASV_58	
+ASV_59	
+ASV_60	
+ASV_61	
+ASV_62	angulatum
+ASV_63	
+ASV_64	adolescentis
+ASV_65	
+ASV_66	Bifidobacterium
+ASV_67	
+ASV_68	adolescentis
+ASV_69	
+ASV_70	
+ASV_71	
+ASV_72	angulatum
+ASV_73	pseudocatenulatum
+ASV_74	
+ASV_75	adolescentis
+ASV_76	
+ASV_77	
+ASV_78	pseudocatenulatum
+ASV_79	angulatum
+ASV_80	
+ASV_81	pseudocatenulatum
+ASV_82	
+ASV_83	pseudocatenulatum
+ASV_84	
+ASV_85	
+ASV_86	
+ASV_87	
+ASV_88	
+ASV_89	
+ASV_90	
+ASV_91	
+ASV_92	
+ASV_93	
+ASV_94	
+ASV_95	adolescentis
+ASV_96	angulatum
+ASV_97	longum subsp. longum
+ASV_98	
+ASV_99	
+ASV_100	
+ASV_101	catenulatum subsp. catenulatum
+ASV_102	
+ASV_103	
+ASV_104	
+ASV_105	Bifidobacterium
+ASV_106	
+ASV_107	
+ASV_108	longum subsp. longum
+ASV_109	
+ASV_110	
+ASV_111	
+ASV_112	
+ASV_113	adolescentis
+ASV_114	angulatum
+ASV_115	pseudocatenulatum
+ASV_116	angulatum
+ASV_117	angulatum
+ASV_118	adolescentis
+ASV_119	longum subsp. longum
+ASV_120	
+ASV_121	
+ASV_122	
+ASV_123	
+ASV_124	
+ASV_125	pseudocatenulatum
+ASV_126	Bifidobacterium
+ASV_127	longum subsp. longum
+ASV_128	angulatum
+ASV_129	longum subsp. longum
+ASV_130	adolescentis
+ASV_131	
+ASV_132	
+ASV_133	
+ASV_134	
+ASV_135	
+ASV_136	
+ASV_137	
+ASV_138	adolescentis
+ASV_139	pseudocatenulatum
+ASV_140	adolescentis
+ASV_141	
+ASV_142	Bifidobacterium
+ASV_143	
+ASV_144	
+ASV_145	
+ASV_146	
+ASV_147	
+ASV_148	
+ASV_149	
+ASV_150	
+ASV_151	
+ASV_152	
+ASV_153	
+ASV_154	
+ASV_155	adolescentis
+ASV_156	adolescentis
+ASV_157	
+ASV_158	pseudocatenulatum
+ASV_159	
+ASV_160	
+ASV_161	
+ASV_162	
+ASV_163	pseudocatenulatum
+ASV_164	
+ASV_165	
+ASV_166	adolescentis
+ASV_167	pseudocatenulatum
+ASV_168	angulatum
+ASV_169	angulatum
+ASV_170	bifidum
+ASV_171	adolescentis
+ASV_172	bifidum
+ASV_173	angulatum
+ASV_174	
+ASV_175	bifidum
+ASV_176	adolescentis
+ASV_177	longum subsp. longum
+ASV_178	adolescentis
+ASV_179	adolescentis
+ASV_180	
+ASV_181	
+ASV_182	
+ASV_183	
+ASV_184	
+ASV_185	
+ASV_186	
+ASV_187	longum subsp. longum
+ASV_188	
+ASV_189	
+ASV_190	
+ASV_191	
+ASV_192	
+ASV_193	bifidum
+ASV_194	bifidum
+ASV_195	
+ASV_196	
+ASV_197	pseudocatenulatum
+ASV_198	pseudocatenulatum
+ASV_199	
+ASV_200	adolescentis
+ASV_201	adolescentis
+ASV_202	bifidum
+ASV_203	bifidum
+ASV_204	angulatum
+ASV_205	adolescentis
+ASV_206	
+ASV_207	
+ASV_208	pseudocatenulatum
+ASV_209	
+ASV_210	
+ASV_211	
+ASV_212	
+ASV_213	
+ASV_214	
+ASV_215	
+ASV_216	
+ASV_217	
+ASV_218	
+ASV_219	
+ASV_220	
+ASV_221	
+ASV_222	
+ASV_223	
+ASV_224	
+ASV_225	adolescentis
+ASV_226	adolescentis
+ASV_227	pseudocatenulatum
+ASV_228	Bifidobacterium
+ASV_229	adolescentis
+ASV_230	angulatum
+ASV_231	angulatum
+ASV_232	longum subsp. longum
+ASV_233	adolescentis
+ASV_234	adolescentis
+ASV_235	pseudocatenulatum
+ASV_236	adolescentis
+ASV_237	
+ASV_238	
+ASV_239	
+ASV_240	
+ASV_241	
+ASV_242	
+ASV_243	
+ASV_244	
+ASV_245	
+ASV_246	
+ASV_247	pseudocatenulatum
+ASV_248	
+ASV_249	
+ASV_250	
+ASV_251	
+ASV_252	
+ASV_253	
+ASV_254	
+ASV_255	
+ASV_256	
+ASV_257	
+ASV_258	Bifidobacterium
+ASV_259	
+ASV_260	
+ASV_261	
+ASV_262	
+ASV_263	
+ASV_264	
+ASV_265	
+ASV_266	
+ASV_267	animalis subsp. lactis
+ASV_268	
+ASV_269	
+ASV_270	
+ASV_271	
+ASV_272	
+ASV_273	
+ASV_274	pseudocatenulatum
+ASV_275	angulatum
+ASV_276	adolescentis
+ASV_277	pseudocatenulatum
+ASV_278	adolescentis
+ASV_279	pseudocatenulatum
+ASV_280	adolescentis
